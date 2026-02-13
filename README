@@ -1,0 +1,50 @@
+# Housing Price Prediction using Machine Learning
+
+## 📌 Project Overview
+This project focuses on predicting housing prices based on property features using supervised machine learning techniques.
+
+The goal is to analyze property characteristics and build a regression model capable of estimating market prices.
+
+---
+
+## 🧠 Problem Statement
+Accurate real estate price prediction is important for buyers, sellers, and investors.  
+This project applies machine learning algorithms to estimate housing prices based on features such as:
+
+- Size (square meters)
+- Number of rooms
+- Location
+- Year built
+- Additional property characteristics
+
+---
+
+## ⚙️ Technologies Used
+- Python
+- pandas
+- NumPy
+- scikit-learn
+- matplotlib (if you used it)
+
+---
+
+## 🔎 Methodology
+1. Data preprocessing and cleaning
+2. Feature selection and normalization
+3. Model training using regression algorithms
+4. Model evaluation using metrics such as:
+   - Mean Squared Error (MSE)
+   - R² Score
+
+---
+
+## 📊 Results
+The model demonstrates the ability to capture relationships between property features and housing prices, achieving reasonable predictive accuracy.
+
+---
+
+## 🚀 How to Run
+1. Clone the repository
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
